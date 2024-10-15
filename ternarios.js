@@ -1,4 +1,4 @@
-// condicionales
+// condicionales if -- es de declaración Statment
 let age = 17
 
 // if (age >= 18) {
@@ -20,7 +20,7 @@ let age = 17
 //     }
 // }
 
-// Ternarios 
+// Ternarios  --> EXPRESIÓN
 // condición ? (lo que ejecutamos si es verdadero) : (Lo que se ejecuta si es falso)
 
 age >= 18 ?
